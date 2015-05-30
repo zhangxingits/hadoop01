@@ -32,7 +32,7 @@
 	<classpathentry kind="lib" path="lib/hadoop-annotations-2.6.0.jar"/>
 	<classpathentry kind="lib" path="lib/hadoop-auth-2.6.0.jar"/>
 	<classpathentry kind="lib" path="lib/hadoop-common-2.6.0-tests.jar"/>
-	<classpathentry kind="lib" path="lib/hadoop-common-2.6.0.jar" sourcepath="G:/Hadoop/1/1、传智Hadoop7天培训(价值2000元)/软件/hadoop-2.6.0-src"/>
+	<classpathentry kind="lib" path="lib/hadoop-common-2.6.0.jar" sourcepath="G:/Hadoops/Hadoopsrc/hadoop-2.4.1-src"/>
 	<classpathentry kind="lib" path="lib/hadoop-hdfs-2.6.0-tests.jar"/>
 	<classpathentry kind="lib" path="lib/hadoop-hdfs-2.6.0.jar"/>
 	<classpathentry kind="lib" path="lib/hadoop-hdfs-nfs-2.6.0.jar"/>
