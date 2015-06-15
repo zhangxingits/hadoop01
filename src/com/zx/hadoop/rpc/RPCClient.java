@@ -11,7 +11,7 @@ public class RPCClient {
 	public static void main(String[] args) throws IOException {
 		//配置代理对象
 		//获取代理对象
-		Bizable proxy = RPC.getProxy(Bizable.class, 10010, new InetSocketAddress("192.168.8.108",9527), new Configuration());
+		Bizable proxy = RPC.getProxy(Bizable.class, 10010, new InetSocketAddress("192.168.56.88",9527), new Configuration());
 		//调用远程方法
 		String result=proxy.sayHi("hadoop!");
 		//输出

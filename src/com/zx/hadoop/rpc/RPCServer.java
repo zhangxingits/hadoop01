@@ -23,7 +23,7 @@ public class RPCServer implements Bizable {
 		// setPort 设置端口
 		
 		Server server = new RPC.Builder(conf).setProtocol(Bizable.class).setInstance(new RPCServer())
-				.setBindAddress("192.168.8.108").setPort(9527).build();
+				.setBindAddress("192.168.56.88").setPort(9527).build();
 		server.start();
 	}
 
